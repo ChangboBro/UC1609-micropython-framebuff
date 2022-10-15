@@ -8,3 +8,5 @@ the UC1609.py is the lib file you can use in your own project.
 I just tested it with my RaspberryPi Pico, didn't test with other MCU...
 
 Hopes it can help you.
+
+![running effect](https://github.com/ChangboBro/UC1609-micropython-framebuff/blob/main/1665837175983.jpg?raw=true)
